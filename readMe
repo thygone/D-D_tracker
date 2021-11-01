@@ -1,0 +1,26 @@
+# Overview
+
+WHAT:
+The software I made is a D&D battle tracker for those who are acting as the dungeon master.
+WHY:
+The purpose of this program was to help make easier the tracking of a battle in the D&D game. There are many small attributes that can be hard to remember, instead of havin them 
+    all over the place, this program will keep all of those things in the same place and easy to access.
+
+Youtube link:
+[My battle tracker for D&D](https://youtu.be/ldliiL-K7_M)
+
+
+TOOLS:
+I used Visual studio code for my Environment with the codeRunner and C/C++ extensions
+{Describe the programming language that you used and any libraries.}
+I used C++ language for this program with the string and math libraries imported so that
+    I can properly name entities as well as use the random command for rolling dice.
+
+# Useful Websites
+* [w3schools](https://www.w3schools.com/cpp/default.asp)
+
+
+# Future Work
+* I need to fix the error of when an unexpected input is recieved from the user
+* create a save function for the individul heros so that a DM does not need to regularly refill it
+* Include more distance calculations from between two entities.
